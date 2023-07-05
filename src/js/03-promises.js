@@ -6,7 +6,6 @@ function createPromise(position, delay) {
     // Reject
   }
 }
-
 import { Notify } from 'notiflix';
 
 const formEl = document.querySelector('.form');
