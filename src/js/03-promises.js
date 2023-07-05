@@ -1,3 +1,5 @@
+3;
+
 import { Notify } from 'notiflix';
 
 const formEl = document.querySelector('.form');
